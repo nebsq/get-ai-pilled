@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Get AI-pilled",
+  "description": "A gentle nudge to ask yourself: “How can I use AI to do this faster?”",
+  "version": "0.1.0",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "16": "icons/ai-pill-16.png",
+    "32": "icons/ai-pill-32.png",
+    "48": "icons/ai-pill-48.png",
+    "128": "icons/ai-pill-128.png"
+  }
+}
