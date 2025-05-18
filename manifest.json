@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Get AI-pilled",
-  "description": "A gentle nudge to ask yourself: “How can I use AI to do this faster?”",
+  "description": "A gentle nudge to ask yourself: “How can you use AI to do what you're going to do right now?”",
   "version": "0.1.0",
   "chrome_url_overrides": {
     "newtab": "newtab.html"

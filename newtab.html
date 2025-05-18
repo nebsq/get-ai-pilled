@@ -6,7 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     /* keeping it lightweight as possible */
-    html,body{height:100%;margin:0;font-family:system-ui,Arial,sans-serif;background:#111;color:#eee;display:flex;align-items:center;justify-content:center}
+    html,body{
+      height:100%;
+      margin:0;
+      font-family:system-ui,Arial,sans-serif;
+      background:#111;
+      color:#eee;
+      display:flex;
+      align-items:flex-start; /* Changed from center to flex-start */
+      justify-content:center;
+      padding-top:3rem; /* Add space from the top */
+    }
     .card{max-width:600px;text-align:center;padding:2rem;border-radius:1rem;background:#1a1a1a;box-shadow:0 4px 20px rgba(0,0,0,.4)}
     h1{font-size:clamp(1.5rem,4vw,2.5rem);margin:0 0 1rem}
     p{opacity:.7;margin:0 0 1.5rem}
@@ -19,9 +29,14 @@
 </head>
 <body>
   <main class="card">
-    <h1>How can I use AI to do what I was about to do?</h1>
-    <p>Open ChatGPT, Gemini, or your favourite tool and cut the busy-work.</p>
+    <h1>How can you use AI to do what you're going to do right now?</h1>
+    <p>Open ChatGPT, Gemini, Claude, Grok, T3 Chat, Perplexity or your favourite tool and cut the busy-work.</p>
     <a class="button" href="https://chat.openai.com" target="_blank">Launch ChatGPT ↗</a>
+    <a class="button" href="https://gemini.google.com/" target="_blank">Launch Gemini ↗</a>
+    <a class="button" href="https://claude.ai/" target="_blank">Launch Claude ↗</a>
+    <a class="button" href="https://grok.com/" target="_blank">Launch Grok ↗</a>
+    <a class="button" href="https://t3.chat/" target="_blank">Launch T3 Chat ↗</a>
+    <a class="button" href="https://www.perplexity.ai/" target="_blank">Launch Perplexity ↗</a>
   </main>
 </body>
 </html>
