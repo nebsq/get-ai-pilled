@@ -1,6 +1,6 @@
 # Get AI-Pilled
 
-[Get the Chrome Extension here](https://chromewebstore.google.com/detail/chfdfgdjhfppeoickadlbipjbcfjflbf?utm_source=item-share-cb)
+<a href="https://chromewebstore.google.com/detail/chfdfgdjhfppeoickadlbipjbcfjflbf?utm_source=item-share-cb" target="_blank" rel="noopener noreferrer">Get the Chrome Extension here</a>
 
 Inspired by Aparna Chennapragada's episode on Lenny's Podcast.
 
